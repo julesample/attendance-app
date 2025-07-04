@@ -9,12 +9,13 @@ A simple and modern attendance tracking application built with **Next.js**. This
 - **Database:** (Supabase)
 ## 🚀 Features
 
-- ✅ Daily check-in / check-out
-- 📅 View attendance logs
-- 🕒 Track timestamp records
-- 🔐 User authentication
-- 📱 Responsive design
-- 🧠 Built with React & Next.js
+-  Daily check-in 
+-  View attendance logs
+-  Track students performance
+-  Export data to excel
+-  Automatically saved to database
+-  Responsive design
+
 ## 📦 Installation
 
 Clone the project
